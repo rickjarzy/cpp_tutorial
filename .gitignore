@@ -1,0 +1,12 @@
+*.vcxproj
+*.user
+*.pch
+*.enc
+*.idb
+*.pdb
+*.obj
+*.filters
+*.sln
+*.exe
+*.ilk
+*.pdb
